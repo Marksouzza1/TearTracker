@@ -29,6 +29,6 @@ Descrição dos sensores utilizados
 - Sensor 3;
 
 Links úteis:
-[Como usar com Arduino – Sensor de Velocidade] ([url](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-velocidade-encoder-chave-optica-5mm)https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-velocidade-encoder-chave-optica-5mm)
+[Como usar com Arduino – Sensor de Velocidade] (https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-velocidade-encoder-chave-optica-5mm)https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-velocidade-encoder-chave-optica-5mm)
 
 [Sensor de Temperatura LM35](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-temperatura-lm35)
