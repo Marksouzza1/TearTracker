@@ -26,12 +26,19 @@ Descrição dos sensores utilizados
 – Sensibilidade: 10mV/ºC
 – Conexão de saída: analógica
 
-- Sensor 3;
+- Sensor de Luz LDR
+ 
+- ESPECIFICAÇÕES:
+- Diâmetro: 5mm;
+- Comprimento com terminal: 34mm;
+- Peso: 10g.
+
 
 
 
 Links úteis:
 
+[Como usar com arduino - Sensor de luz?ldr](https://www.blogdarobotica.com/2020/09/29/utilizando-o-sensor-de-luminosidade-ldr-no-arduino/)
 
 [Como usar com Arduino – Sensor de Velocidade](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-velocidade-encoder-chave-optica-5mm)
 
