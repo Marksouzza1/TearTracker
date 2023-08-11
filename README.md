@@ -28,7 +28,7 @@ Descrição dos sensores utilizados
 
 - Sensor 3;
 
-  ![img](https://blogmasterwalkershop.com.br/wp-content/uploads/2018/11/img01_como_usar_com_arduino_sensor_de_temperatura_lm35_uno_mega_2560_nano_medidor_termo_automacao_residencial.png)
+
 
 Links úteis:
 
