@@ -17,9 +17,18 @@ Descrição dos sensores utilizados
   Led indicador para saída digital
   Dimensões: 32 x 14 x 7mm
 
-- Sensor 2;
+- Sensor de Temperatura LM35
+    – Circuito integrado: LM35DZ
+– Tensão de operação: 4 a 20VDC
+– Corrente de operação: < 60mA
+– Faixa de medição: 0° a 100° celsius
+– Precisão: ±0,5° celsius
+– Sensibilidade: 10mV/ºC
+– Conexão de saída: analógica
 
 - Sensor 3;
 
 Links úteis:
-[] (url)
+[Como usar com Arduino – Sensor de Velocidade] ([url](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-velocidade-encoder-chave-optica-5mm)https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-velocidade-encoder-chave-optica-5mm)
+
+[Sensor de Temperatura LM35](https://blogmasterwalkershop.com.br/arduino/como-usar-com-arduino-sensor-de-temperatura-lm35)
